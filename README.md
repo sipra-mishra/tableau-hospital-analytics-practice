@@ -1,8 +1,9 @@
-# Hospital Analytics Dashboard (Tableau practice)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c5c41c1f-2c0f-4a38-a018-be87277ac1ce" /># Hospital Analytics Dashboard (Tableau practice)
 
 A Tableau dashboard for a fictional hospital, built as a practice exercise from a written specification.
 
-Dashboard- hospital-dashboard-practice.png
+Dashboard- Hospital-Analytics-Dashboard.png
+
 
 ## Requirements followed
 - KPIs: total treatment cost and treatment cost per visit, shown in rupees
