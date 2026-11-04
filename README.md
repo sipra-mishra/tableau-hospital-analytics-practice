@@ -4,7 +4,8 @@ A Tableau dashboard for a fictional hospital, built as a practice exercise from 
 
 ![Dashboard](Hospital-Analytics-Dashboard.png)
 
-## Requirements followed
+## A Tableau dashboard built as a practice exercise on a small sample dataset of 50 hospital visits.
+## Dashboard features
 - KPIs: total treatment cost and treatment cost per visit, shown in rupees
 - Treemap: treatment cost by department
 - Donut chart: number of visits for each visit code
